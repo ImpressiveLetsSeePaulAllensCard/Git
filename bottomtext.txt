@@ -1,3 +1,1 @@
-
-I have lost track of all these got damn modifications
-
+Modifications made from github for bottomtext.txt
